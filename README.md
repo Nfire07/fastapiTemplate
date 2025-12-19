@@ -3,7 +3,7 @@
 ## To run in DEV enviroment
 
 ```
-uvicorn main:app --reload
+python3 -m uvicorn main:app --reload
 ```
 
 ## Minimal required dependencies
